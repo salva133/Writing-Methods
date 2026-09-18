@@ -13,7 +13,7 @@ Proven techniques, structures and strategies for writing. The primary standard f
 
 ## Style & Quality
 
-- [[Sections/StyleRules|Style Rules]]: scope, forbidden patterns, anti-AI prose, markup and structure (no lists, no subheadings, barely any bold or italic), adverbs, filter words, non-events, weakening verbs, tautologies, positive requirements, body and gesture against the prop warehouse, author voice (style profile drawn from the author's own texts), self-check
+- [[Sections/StyleRules|Style Rules]]: scope, forbidden patterns, anti-AI prose, markup and structure (no lists, no subheadings, barely any bold or italic), adverbs, filter words, non-events, weakening verbs, tautologies, positive requirements, which numbers may stand in prose, body and gesture against the prop warehouse, author voice (style profile drawn from the author's own texts), self-check
 - [[Sections/WritingTechniques|Writing Techniques]]: show don't tell, when tell is right, sensory writing, in medias res, POV (psychic distance, slipping POV, focalization), building tension, dialogue (action beats, subtext), figures of speech, clustering
 - [[Sections/Revision|Revision]]: revision phases, self-editing, scene-list diagnosis, Sanderson's draft system, continuity check, sensitivity reading, beta readers, sorting feedback
 

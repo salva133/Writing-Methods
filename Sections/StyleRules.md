@@ -36,7 +36,7 @@ If a piece of information really is missing after the cut, it belongs in a plain
 
 **No hedging formulas.** Cut: "It is important to note that", "It should be mentioned that", "One should mention that", "It cannot be stressed enough that", "In the end", "At the end of the day", "What remains to be said is", "One of the most important …", "At its core", "When it comes to …", "This is where X comes in". When something is important, just write it down.
 
-**No particles of affirmation and concession.** "Indeed", "certainly", "undoubtedly", "to be sure", "mind you", "by no means", "albeit", "notwithstanding". The German siblings do the same work: "in der Tat", "gewiss", "freilich", "wohlgemerkt", "mitnichten", "obschon". They lend a statement emphasis it does not have of itself, or they concede something nobody had disputed. Cut them. If the sentence is weak afterwards, the particle was not the problem.
+**No particles of affirmation and concession.** "Indeed", "certainly", "undoubtedly", "to be sure", "mind you", "by no means", "albeit", "notwithstanding". They lend a statement emphasis it does not have of itself, or they concede something nobody had disputed. Cut them. If the sentence is weak afterwards, the particle was not the problem.
 
 **Forbidden pet vocabulary.** Avoid: *illuminate, delve (into), multifaceted, many-layered, nuanced* (as empty praise), *underscore, underpin, unpack, harness, shed light on, pave the way, a field of tension, tapestry, navigate* (in the figurative sense), *robust* (outside technical contexts), *comprehensive, holistic, pivotal, leverage*. Likewise the upgrading and high-gloss vocabulary that has grown measurably more frequent in AI texts since 2023: *seamless, groundbreaking, trailblazing, transformative, innovative, cutting-edge, crucial/central* (as mere intensification), *a (true) testament to, underscores the importance of, plays a (central/important) role, breathtaking, picturesque, vibrant, rich heritage / rich culture, in the realm of, the landscape of* (in the figurative sense), *when it comes to …, in the end*. These words are markers of AI prose.
 
@@ -84,7 +84,7 @@ If a piece of information really is missing after the cut, it belongs in a plain
 
 **Tautologies.** "Nodded his head", "whispered quietly", "saw with his eyes", "smiled with his mouth". Cut.
 
-**Classic German sentence structure.** Verb in second position in the main clause, subordinate clauses with the verb at the end. No anglicisms in the syntax (no "Er ist der Meinung, dass dies wichtig ist zu beachten"). Use inversions sparingly and deliberately, not as a reflex for effect.
+**Classic German sentence structure.** Verb in second position in the main clause, subordinate clauses with the verb at the end. No English word order smuggled in, and no English infinitive constructions where German wants a subordinate clause. Use inversions sparingly and deliberately, not as a reflex for effect.
 
 **Avoid repeated words.** The same word must not turn up more than once in close proximity. Look for a synonym first. If none is possible, shorten the sentence or rebuild it. Counterexample: "The Mad Cat reacted last. It reacted at once when it reacted." → Either: "The Mad Cat reacted last, but then with full force." Or shorten it: "The Mad Cat was the last to act." -> see also [[Revision]]
 
@@ -118,13 +118,40 @@ Allow friction. Pointed observations, clear judgments, a recognizable stance. Te
 
 Claim first, evidence after. The point stands in the first sentence, the reasoning follows. A text that works its way through context first and puts the statement at the end forces the reader to reverse the order himself.
 
-Names and numbers instead of hints. The concrete can be checked and it sticks; the general is neither. "Two lances from the Kurita sector" instead of "a considerable force".
+Names and numbers instead of hints. The concrete can be checked and it sticks; the general is neither. "Two lances from the Kurita sector" instead of "a considerable force". Which numbers may stand in prose is settled by "Numbers in Prose" below.
 
 Leave the weight to the reader. What matters shows in what the text shows and is not labeled "significant", "essential" or "decisive". The reader recognizes it himself; that is his work, not yours.
 
 Variation in sentence length and structure. Long explanatory sentences beside short ones. Main clauses beside nested ones. No uniform rhythm.
 
 When in doubt, leave it out. Shorter texts are almost always better than longer ones. If a sentence adds nothing, out with it.
+
+---
+
+## Numbers in Prose: What Somebody Counted
+
+The requirement "Names and numbers instead of hints" stands. This section says which numbers, because the wrong ones turn a chapter into a quarterly report. The marker is hard to catch, since every single figure looks like exactly the concreteness that was asked for. Only in accumulation do they produce the sound of an annual statement being read aloud.
+
+**A number belongs in prose when somebody in this world counted it.** Five lances, three ships, fourteen men at the gate, the eleventh day: a person can hold those in view, and to say them is to report an observation. Percentages, index values, sums that come into existence only after somebody adds them up, and counts running into the hundreds are the work of an office. Written into narrative prose, they hand the narration to an accountant.
+
+**The ceiling for the counted number is roughly a dozen.** Up to about twelve a figure reads as something seen. Above it the reader stops seeing and starts filing. Large quantities get a unit he can look at instead: not "two hundred herds", but the herd standing in the valley and the three more visible from the ridge.
+
+**The exception is the kept record.** A ledger, a muster roll, a casualty list, a docket: somebody in this world really does count those, and the high figure is the point. "He kept a book about it: forty-one entries" belongs in the text, because the book exists and a man wrote in it. The test is the same as above, only the counter is a clerk instead of a witness.
+
+**Percentages never.** "Fifteen of a hundred were left", "ninety-four out of a hundred in one hand", "more than double the year 2048": those are a controller's sentences. Whatever the percentage measures gets shown at the place where it hits. The mill that runs one shift instead of three. The harbour with two cranes still turning.
+
+**No chain of figures inside one sentence.** "Two and a half degrees, twenty-five nuclear strikes, a hundred and forty-three regions" is a table with commas in it. One figure per sentence, at most one per paragraph, and it stands where it costs something.
+
+**Dates, places and names are not statistics.** Years, months, days, compass directions and proper names anchor the text and may stand as often as it needs them. The requirement "numbers and map instead of mood" in the author-voice section means exactly this placing work and no arithmetic.
+
+**Turn the aggregate into the smallest visible unit.** Whatever a total states, some single thing in the world states too, and that thing is what gets written: the empty chair at the table, the border post with nobody in it, the name struck off the list. The total may follow once in a bare half sentence, where the reader needs the order of magnitude, and never twice in the same chapter.
+
+- Bad: "A quarter of the world economy vanished in twelve months."
+- Better: "By spring no freighter came up the river any more."
+
+**Orders of magnitude by comparison with a thing, not with a base year.** "More than double the year 2048" is bookkeeping. Whatever grew, grew against something you can look at: the yard that used to lay one keel a year and now lays four.
+
+**Test.** Underline every figure in the passage and name, for each one, the person who counted it and the moment he did it. Where no such person can be found, the figure comes out and the thing it measured goes in.
 
 ---
 
@@ -334,7 +361,7 @@ First sample: the outline for the RimWorld run "Duplicator-Erwachen" (September 
 
 **Basic principle: written as spoken.** The author comes from speaking and writes texts the way he would deliver them aloud. That is the origin of most of the features below: the sentence that corrects itself while being spoken, the short afterclause that sets a turn, the half sentence in which somebody else briefly speaks. The standard is therefore not the look on the page but the delivery: a sentence you would not say that way gets rebuilt, even when it is correct on paper. The read-aloud test from "Breath and Rhythm" is not a diagnosis for this voice but the way it comes into being. Limit: spoken does not mean chatty. Whatever would be filler in delivery ("so to speak", "quasi", "somehow") does not belong here either (see "Redundant intensifiers").
 
-**Two language layers, mixed without a transition.** Idiomatic, slightly old-fashioned German stands next to English genre and technical jargon, and neither is adapted to the other. "Den Winden und der Witterung trotzend", "Glücksritter", "aller Couleur" on the one side; "Grey Goo", "Callback Ping", "Cluster", "Ping" on the other. English technical words stay English when they are the established terms in the genre or in the game. No forced Germanization ("Rückruf-Signal"), no quotation marks, no explanation. The friction between the layers is intended.
+**Two language layers, mixed without a transition.** Idiomatic, slightly old-fashioned German stands next to English genre and technical jargon, and neither is adapted to the other. On one side an archaic participial opening or a word two generations out of date; on the other "Grey Goo", "Callback Ping", "Cluster". English technical words stay English when they are the established terms in the genre or in the game. No forced Germanization of them, no quotation marks, no explanation. The friction between the layers is intended.
 
 **Invented technical language out of known building blocks.** Technology is not explained but asserted in compounds the reader understands without a glossary, because he knows both halves: "cellular-mechanical reassemblers", "biological complementary neurons", "the persistent memory of the cells". The pattern crosses biology with computing. Dose: one or two such terms per paragraph, each of them only once. Explain the term afterwards and you have thrown it away.
 
@@ -354,13 +381,13 @@ First sample: the outline for the RimWorld run "Duplicator-Erwachen" (September 
 
 **Tense carries the jumps in time.** Past perfect for the prehistory ("had been overrun"), simple past for the centuries ("wandered", "found each other"), present from the moment the story begins ("And today …", "rises"). No "years later", no subheading. The tense makes the cut.
 
-**Inversion only at the moment of pathos and at a character's entrance.** Otherwise the syntax follows the rule from "Classic German sentence structure": subject first, verb in second position. Two places may depart from it, and the sample does so at exactly those: the large image at the turning point ("Den Winden und der Witterung trotzend fanden sich …") and the moment in which the character steps onto the stage ("Es erhebt sich Juniper Breeze"). There the inversion carries the force, because the rest of the text stands straight. A third inversion in the same text is a reflex for effect and gets built back. For the editor that means: if the inversion stands at the moment of pathos or at an entrance, it stays. If it stands anywhere else, the prohibition applies.
+**Inversion only at the moment of pathos and at a character's entrance.** Otherwise the syntax follows the rule from "Classic German sentence structure": subject first, verb in second position. Two places may depart from it, and the sample does so at exactly those: the large image at the turning point, where a participial phrase is fronted ahead of the verb, and the moment in which the character steps onto the stage, where the verb comes first and the name lands last. There the inversion carries the force, because the rest of the text stands straight. A third inversion in the same text is a reflex for effect and gets built back. For the editor that means: if the inversion stands at the moment of pathos or at an entrance, it stays. If it stands anywhere else, the prohibition applies.
 
-**One moment of pathos, exactly one.** The single exclamation mark and the single large image stand at the turning point between retrospect and present: "Und heute ist die Zeit der Wiederauferstehung der Duplicatoren endlich gekommen!", "erhebt sich … aus den Aschen dieser Welt". Before and after it the text is sober. The outburst works because it stands alone (see "At most one image per scene"). A second exclamation mark in the same text devalues both.
+**One moment of pathos, exactly one.** The single exclamation mark and the single large image stand at the turning point between retrospect and present, where the sample announces that the hour has come and has its character rise out of the ashes of the world. Before and after it the text is sober. The outburst works because it stands alone (see "At most one image per scene"). A second exclamation mark in the same text devalues both.
 
 **An end without a fade-out.** The text ends on the last piece of factual information ("…, searching the ruins for artifacts."). No conclusion, no line of mood, no cliffhanger sentence. It agrees with "No formulaic closings" and with this author it is instinct, not obedience to a rule.
 
-**Not style but typing speed.** Lowercased nouns ("energiequelle", "fraktionen", where German capitalizes its nouns), mixed forms such as "Duplicatoren" next to "Duplicators", "coleur" instead of "Couleur" are carelessness and get standardized in the edit. Whoever takes the voice over does not take that over with it.
+**Not style but typing speed.** Nouns left lowercase where German capitalizes them, the same proper noun spelled two ways in one text, a loanword misspelled: that is carelessness and gets standardized in the edit. Whoever takes the voice over does not take that over with it.
 
 **Test.** Say the paragraph aloud, as though you were delivering it to somebody. Wherever you falter or would put it differently, the written version is wrong. Then ask: does at least one technical term stand there untranslated and unexplained? Is there a short afterclause that twists? Is a gap named openly instead of plastered over? Does the voice of somebody affected color the report in one place, without being explained? If everything is no, the paragraph does not sound like the author.
 
