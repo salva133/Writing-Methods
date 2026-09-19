@@ -28,7 +28,7 @@ If a piece of information really is missing after the cut, it belongs in a plain
 
 **No "not only X, but Y" constructions.** All the relatives are included: **"Not X. Not Y, but Z"**, "It is not just X, it is Y", "This is not about X. It is about Y.", "No X. No Y. Only Z." These antithetical templates imitate insight and deliver none. When a contrast really exists, put it differently. When none exists, leave it out.
 
-**No compulsive lists of three.** Enumerations do not have to consist of three elements just because that sounds rhythmic. Two or four points are often more honest. When three things really are three things, then three. Otherwise not.
+**No compulsive lists of three.** Enumerations do not have to consist of three elements just because that sounds rhythmic. Two or four points are often more honest. When three things really are three things, then three. Otherwise not. Longer runs of names and items: see "Enumerations: One Name for the Many".
 
 **No dashes.** The em dash and the en dash appear in no text, not in headings, quotations, lists or ranges of numbers either. The only permitted dash character is the simple hyphen. It stands in compounds, in ranges such as "2-4 weeks" and, where a dash really is indispensable, in its place. It is almost never indispensable: what a dash used to separate is now separated by a comma, a colon, a full stop or a new sentence. An interjection that finds no room that way was too long.
 
@@ -152,6 +152,42 @@ The requirement "Names and numbers instead of hints" stands. This section says w
 **Orders of magnitude by comparison with a thing, not with a base year.** "More than double the year 2048" is bookkeeping. Whatever grew, grew against something you can look at: the yard that used to lay one keel a year and now lays four.
 
 **Test.** Underline every figure in the passage and name, for each one, the person who counted it and the moment he did it. Where no such person can be found, the figure comes out and the thing it measured goes in.
+
+---
+
+## Enumerations: One Name for the Many
+
+A run of proper names in running text is an index, not a sentence. The reader takes in the first name, skims the second and stops reading at the third. Whatever the list was meant to prove, its length proves only the diligence of whoever wrote it. It gets old fast, and a chronicle that lists in every chapter sounds like a register of deaths. Enumerations stay as rare as the text allows.
+
+**One name stands for the many.** Choose the one in which the event can be seen best and let it carry the others. Not the nine states that fell in one year, but the one whose fall the reader can picture: "Istanbul fell to the Hive, and with the city went Turkey."
+
+**Range instead of inventory.** Where the extent matters, give two endpoints and not everything in between. "From Taiwan to Kamchatka" puts the span on the map; the seven names along the way only fill the line. The range is a tool and not a new habit: once or twice per text, otherwise it turns into the next tic.
+
+**The group by what binds it.** Where a group acts as a group, it gets the name of what holds it together, "Central Europe", "the western Pacific rim", "the councils", and not a recital of its members.
+
+**Two is a pair, three is suspect, four is the exception.** Two items may stand. Three are already under suspicion (see "No compulsive lists of three"). Four or more in a row appear at most once per chapter, and only where the length itself is what the scene is about.
+
+**The roll call in disguise.** A paragraph that walks through the members of a group one sentence each is a list with full stops. Keep the one or two that matter for this moment and let the others turn up where they act.
+
+**Attributes and steps count as well.** "Rich, highly educated and divided within", "caught him, kept him alive, made him speak and learned his language" are lists of qualities or of steps. The one or two that carry the sentence stay.
+
+**Where a real inventory is needed,** it belongs in an appendix, a map or a table, not in the paragraph.
+
+**Test.** Count the commas between proper names. More than one in a sentence, and the sentence gets rebuilt.
+
+---
+
+## Name the Thing: No Periphrasis by Negation
+
+"Buildings nobody from here had built", "something no earthly blueprint had produced", "an animal that fit into no system": the narrator knows what the thing is and holds back the word. He describes it instead by what it is not or by where it does not come from. The sentence gains an air of mystery and loses the information. It is the non-event applied to a noun (see "No non-events"): the thing is defined by an absence.
+
+**When the setting has a word for it, the word goes in.** Alien Structure, Megafauna, Xenoforming, Hydra. The section on the two language layers asks for exactly that.
+
+**When the point of view really does not know the thing yet,** the text shows what that point of view perceives: shape, sound, smell, the way people behave around it. Not a negated origin, which somebody who does not know could not supply anyway.
+
+**A thing gets its name at its first appearance and keeps it.** Swapping a named thing for a mysterious paraphrase later on ("the strange structures", "that which came from outside") is the same trick run backwards. Repeating the name is not a repeated-word fault; a paraphrase would be the fault.
+
+**Test.** Search for "nobody ... had", "no one from here", "no earthly", "in no", "not from here". Every hit where a name exists gets the name.
 
 ---
 
