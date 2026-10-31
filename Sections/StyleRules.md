@@ -28,6 +28,15 @@ If a piece of information really is missing after the cut, it belongs in a plain
 
 **No "not only X, but Y" constructions.** All the relatives are included: **"Not X. Not Y, but Z"**, "It is not just X, it is Y", "This is not about X. It is about Y.", "No X. No Y. Only Z." These antithetical templates imitate insight and deliver none. When a contrast really exists, put it differently. When none exists, leave it out.
 
+**A real contrast takes "but"; a staged one is cut.** The ban above hits the strawman: an X nobody believed, set up only so that Y can knock it down ("This is not a story about war. It is a story about love."). It does not ban contradiction. Where two true facts pull against each other, the sentence says so with "but", "though" or "while". Smoothing them over with "and" is the opposite mistake, because it hides a tension the reader needs.
+
+The test is the X. If the reader would expect it, or somebody in the text claims it, the contrast is real and stays. If X exists only in this sentence, it goes, and Y stands alone. A real contrast keeps its plain form: one sentence, one conjunction, no fragments ("Not X. Y."), no run of negations ("No X. No Y. Only Z.").
+
+- Staged: "The Order is not a party. It is a lodge."
+- Smoothed over: "The Order founds no party of its own and climbs inside the Fascists."
+- Right: "The Order founds no party of its own but rises inside the Fascist party." A political movement usually founds a party, so the reader expects one.
+- Right as well, when the expectation does not matter here: "The Order joins the Fascist party and rises inside it."
+
 **No compulsive lists of three.** Enumerations do not have to consist of three elements just because that sounds rhythmic. Two or four points are often more honest. When three things really are three things, then three. Otherwise not. Longer runs of names and items: see "Enumerations: One Name for the Many".
 
 **No dashes.** The em dash and the en dash appear in no text, not in headings, quotations, lists or ranges of numbers either. The only permitted dash character is the simple hyphen. It stands in compounds, in ranges such as "2-4 weeks" and, where a dash really is indispensable, in its place. It is almost never indispensable: what a dash used to separate is now separated by a comma, a colon, a full stop or a new sentence. An interjection that finds no room that way was too long.
