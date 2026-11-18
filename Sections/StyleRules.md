@@ -37,6 +37,17 @@ The test is the X. If the reader would expect it, or somebody in the text claims
 - Right: "The Order founds no party of its own but rises inside the Fascist party." A political movement usually founds a party, so the reader expects one.
 - Right as well, when the expectation does not matter here: "The Order joins the Fascist party and rises inside it."
 
+**No "and" between two statements.** "And" binds the parts of one statement: two objects of one verb, or two verbs of one subject that make one movement ("The rulers met on Tharkad and founded a new Star League"). It never joins two statements that only stand side by side. The mark is a comma, then "and", then a subject of its own: "Its First Lord changed every three years, and its regiments destroyed Clan Smoke Jaguar" staples an office to a campaign. The same fault comes without the comma when one subject gets two verbs that tell two unrelated things: "MechWarriors fought in lances of four 'Mechs and went by their callsigns" ties an order of battle to a habit. Each statement gets a sentence of its own.
+
+The rule holds where the second statement follows from the first. "Few factories still built BattleMechs. A 'Mech passed from parent to child as the heirloom of a family." The reader draws the link himself; an "and" would only assert it. Where the link has to be named, the conjunction names it: "because", "so", "after", "when", "but". "And" names none.
+
+- Wrong: "ComStar ran the HPG network, and its Class A stations linked the capitals."
+- Right: "ComStar ran the HPG network. Its Class A stations linked the capitals."
+
+The short afterclause of the author's voice stays (see "Author Voice"): "And they almost succeeded." stands as a sentence of its own and turns the one before it.
+
+**Test.** Search for ", and". Where a subject of its own follows, a full stop goes in. Where one subject carries two verbs, ask whether they tell one movement; if not, two sentences.
+
 **No compulsive lists of three.** Enumerations do not have to consist of three elements just because that sounds rhythmic. Two or four points are often more honest. When three things really are three things, then three. Otherwise not. Longer runs of names and items: see "Enumerations: One Name for the Many".
 
 **No dashes.** The em dash and the en dash appear in no text, not in headings, quotations, lists or ranges of numbers either. The only permitted dash character is the simple hyphen. It stands in compounds, in ranges such as "2-4 weeks" and, where a dash really is indispensable, in its place. It is almost never indispensable: what a dash used to separate is now separated by a comma, a colon, a full stop or a new sentence. An interjection that finds no room that way was too long.
@@ -222,7 +233,7 @@ Narrative prose differs from a chronicle in that it puts scenes on display inste
 
 The shortening prohibitions in this file (filter words, adverbs, weakening verbs, intensifiers, the passive, "when in doubt, leave it out") pull the prose towards terseness. Without counterpressure that turns into staccato: many short main clauses one after another, no subordination, and the pace of the scene overtakes the reader. The following rules work against that pull.
 
-**Use conjunctions.** "And", "but", "while", "because", "although", "after", "when" are not hedging formulas but structural means. They bind observations into movement. A full stop between two observations that belong together causally or temporally is a cut that severs the connection.
+**Use conjunctions.** "But", "while", "because", "although", "after", "when" are not hedging formulas but structural means. They bind observations into movement. A full stop between two observations that belong together causally or temporally is a cut that severs the connection, so the conjunction that names the connection goes in. "And" names none: it binds the parts of one statement and never two statements (see "No "and" between two statements" under "Forbidden Patterns").
 
 **At least one long, unfolding sentence per paragraph.** A main clause with a subordinate clause, a list with a verb, a relative clause that puts an image on display. When a paragraph consists only of sentences of fewer than twelve words, it has no breath. That holds for narrative prose; in dialogue the writing may be terser, because spoken language keeps a different beat.
 
@@ -343,7 +354,7 @@ A supplement to "Forbidden Patterns". These markers come from editorial and dete
 
 **Participle and appendage tails.** The AI pattern of "main clause, then an appended participle with an interpretation": "He stepped forward, well knowing that …", "…, a silent proof that …", "…, which made the whole thing harder still", "…, which he would never have admitted". Add to that the spelled-out interpretive variant that explains to the reader what has just been shown: "…, which showed how much she depended on him", "…, which proved that he had been right", "…, which was all the more surprising because …". And the labels of significance out of non-fiction: "…, which underscores the importance of …", "…, which makes the need for … clear", "…, which reflects a broader trend towards …", "…, which marks a turning point". These tails proclaim depth instead of producing it. Make a sentence of your own out of it, or cut it. (Related to the filter words and to over-explaining above.)
 
-**Piled-up transition words.** "Moreover", "furthermore", "consequently", "thus", "ultimately", "in doing so" are legitimate one at a time and, in accumulation, the beat of an essay machine. In narrative prose they can almost always be cut: the order of the sentences carries the connection already. They never stand at the start of a paragraph. "However", "nevertheless", "thus", "therefore", "moreover" as the first word of a paragraph stick a label on a connection the text itself ought to establish. (Not to be confused with the binding conjunctions from "Breath and Rhythm": "and", "but", "while", "when" bind movement, "furthermore" only administrates.)
+**Piled-up transition words.** "Moreover", "furthermore", "consequently", "thus", "ultimately", "in doing so" are legitimate one at a time and, in accumulation, the beat of an essay machine. In narrative prose they can almost always be cut: the order of the sentences carries the connection already. They never stand at the start of a paragraph. "However", "nevertheless", "thus", "therefore", "moreover" as the first word of a paragraph stick a label on a connection the text itself ought to establish. (Not to be confused with the binding conjunctions from "Breath and Rhythm": "but", "while", "when" bind movement, "furthermore" only administrates.)
 
 **Claim, then explanation at once.** The permanent beat of "Statement. And that was because …" / "X. Because Y." Not every sentence needs its reason pushed in behind it. Put the statement down and let it stand, or show the reason as action. When every beat explains itself, the result is that uniform, dutiful texture by which the machine is recognized.
 
@@ -444,7 +455,7 @@ Read the text through once and ask yourself: does this sound like somebody who h
 
 The sharper version of the same question goes sentence by sentence. Could this sentence stand just like that in any machine-generated text on any subject? Then it was not written but called up, and it gets replaced or cut. Behind every sentence there has to be a decision somebody made: this word instead of the obvious one, this length, this detail and no other.
 
-Four moves find most of it.
+Five moves find most of it.
 
 Read aloud. If a sentence sounds like a press release or a blurb, it gets rewritten. The same test from "Breath and Rhythm" finds the missing conjunction and the overlong sentence at once.
 
@@ -453,5 +464,7 @@ The deletion test. Take the sentence away and read the paragraph again. If infor
 Look for the duplication. When the same thought stands there twice in different words, the better version stays and the other one goes. That holds for the paragraph, for the dialogue and for the text as a whole.
 
 Count the non-events. Search for "no … is available", "has not commented", "without giving a reason", "has not been communicated", "not known", "by the time of going to press". Every hit is a sentence passing a gap off as content, and it gets cut.
+
+Count the "and"s. Every ", and" with a subject of its own after it becomes a full stop. A pair of verbs of one subject that tells two things becomes two sentences (see "No "and" between two statements").
 
 Check the first and the last sentence. If the first is a panoramic view of the state of the world, a clearing of the throat or the question handed back, it gets cut and the second is the first. If the last is a conclusion, a line of mood or an outlook, it goes; the text ends on the last piece of factual information.
